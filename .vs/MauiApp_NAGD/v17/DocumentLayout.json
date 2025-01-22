@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\source\\repos\\MauiApp_NAGD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C0F609-47D6-42EB-9B02-5F461508BA0F}|MauiApp_NAGD\\MauiApp_NAGD.csproj|c:\\users\\nicol\\source\\repos\\mauiapp_nagd\\mauiapp_nagd\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74C0F609-47D6-42EB-9B02-5F461508BA0F}|MauiApp_NAGD\\MauiApp_NAGD.csproj|solutionrelative:mauiapp_nagd\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\MauiApp_NAGD\\MauiApp_NAGD\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp_NAGD\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\MauiApp_NAGD\\MauiApp_NAGD\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp_NAGD\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-22T05:19:30.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
